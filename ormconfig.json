@@ -1,0 +1,10 @@
+{
+  "type": "mysql",
+  "host": "http://43.153.134.137/",
+  "port": 3306,
+  "username": "root",
+  "password": "mysql_EK2MBj",
+  "database": "juejue-cost",
+  "entities": ["dist/**/*.entity{.ts,.js}"],
+  "synchronize": true
+}
